@@ -12,7 +12,7 @@ Description: *"Mindexcoin was born in the market to further advance the technolo
 
 ## Exchanges
 
-* [ForkDelta](forkdelta.github.io/#!/trade/0x3a1237d38d0fb94513f85d61679cad7f38507242-ETH)
+* [ForkDelta](https://forkdelta.github.io/#!/trade/0x3a1237d38d0fb94513f85d61679cad7f38507242-ETH)
 
 ## Links
 
